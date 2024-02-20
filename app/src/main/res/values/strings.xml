@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">7DaysApp</string>
+    <string name="first_day_activity">Do a short run</string>
+    <string name="second_day_activity">Use weight to develop muscles</string>
+    <string name="third_day_activity">Stay in plank</string>
+    <string name="fourth_day_activity">Work on your calisthenics</string>
+    <string name="fifth_day_activity">Do more exercises</string>
+    <string name="sixth_day_activity">Don\'t forget about meditation</string>
+    <string name="seventh_day_activity">Check your results</string>
+    <string name="first_day_description">Start with a little run. It will help your body to start blood circulation. Optimal time of run is about 50 minutes.</string>
+    <string name="second_day_description">Its time to use some weight in order to grow your muscles. Just avoid big weights because your body is not strong enough. Do it like 3 times 15</string>
+    <string name="third_day_description">Another important option is plank. This is your exercise for day 3. Try to stay in plank 5 minutes and do it 3 or 4 times depending on your body response</string>
+    <string name="fourth_day_description">My congratulations. Your current streak is 4 days. Do not forget about calisthenics. It is really important to do this cause it will improve your vessels</string>
+    <string name="sixth_day_description">This day is a mini rest for you. Just clear your mind and relax cause your brain and soul need this little vacation</string>
+    <string name="fifth_day_description">Do not stop on your progress. Do more different exercises. No pain, no gain. Break a leg!</string>
+    <string name="seventh_day_description">It is time to check your results. By the way, do not forget to watch what you are eating. Healthy food is another key option to stay fit. Congrats anyway!</string>
+</resources>
